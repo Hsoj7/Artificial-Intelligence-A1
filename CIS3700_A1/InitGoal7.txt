@@ -1,0 +1,9 @@
+Initial state:
+0 8 6
+3 7 4 
+2 1 5
+
+Goal state:
+8 7 6
+3 4 5 
+2 1 0
